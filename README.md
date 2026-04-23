@@ -1,5 +1,5 @@
 | Название проекта | Тема | Стек |
 | --------- | --------- | --------- |
-| [Яндекс Афиша](https://github.com/polina-nikitina1991/analiz-pyton/tree/main/Project1) | Исследовательский анализ данных сервиса Яндекс Афиша | Библиотеки: Pandas, Matplotlib, Seaborn, Phik, SQL, DataLens |
-| [Анализ общепита](https://github.com/polina-nikitina1991/analiz-pyton/tree/main/Project2) | Исследовательский анализ рынка заведений общественного питания  | Библиотеки: Pandas, Matplotlib, Seaborn, Phik |
+| [Анализ себестоимости продукта](https://drive.google.com/file/d/12lC7IMBGCicVp1S8OQ0IqDTbYmv6Mfm4/view?usp=sharing) | Анализ рентабельности продуктов | Power BI|
+| [Анализ основных метрик Яндекс Афиши](https://datalens.yandex/bi2k9j9x7pwww) | Анализ метрик  | DataLens|
 
